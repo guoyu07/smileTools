@@ -1,8 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 # -------------------------------------------------------------------------------
-# Name:         GZ-WeiXinBot
-# Purpose:      发起Get、Post请求，参数处理.
+# Purpose:      数据库处理相关.
 #
 # Author:       Liu.Qi
 #

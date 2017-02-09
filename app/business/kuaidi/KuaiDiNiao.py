@@ -3,7 +3,7 @@
 #
 # Author:       Liu.Qi
 #
-# Created:      9/2/2017
+# Created:      09/02/2017
 # Copyright:    (c) Chengdu Gerdige Technology Co., Ltd.
 # -------------------------------------------------------------------------------
 
