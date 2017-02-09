@@ -16,13 +16,7 @@
 
 ## 工具使用说明
 
-* 快递鸟，需自行去 <http://www.kdniao.com/index.aspx/ /> 注册账号。快递鸟支持全球400家快递公司，接口免费。
-
-    ```
-    配置：打开项目至app\handler\KuaiDiQueryHandler.py 配置您的快递鸟
-
-    ```
-
+* 快递鸟，【[使用说明](https://github.com/liuqi0725/smileTools/wiki/%E5%BF%AB%E9%80%92%E9%B8%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)】
 
 ## 版本说明
 v1.0 2017-02-09 代码初稿，
