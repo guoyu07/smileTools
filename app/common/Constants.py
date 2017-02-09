@@ -37,10 +37,10 @@ CONFIG_FILE_PATH = os.path.join(APP_PATH, 'config/')
 # 快递查询-快递鸟
 # ---------------------------------------------------
 # 快递鸟 商铺ID
-KUAIDINIAO_APP_ID = "1270997"
+KUAIDINIAO_APP_ID = "修改为您的快递鸟商铺号"
 
 # 快递鸟 APP_KEY
-KUAIDINIAO_APP_KEY = "b02b1f2a-f34d-4e3b-bd9c-2328bab20be5"
+KUAIDINIAO_APP_KEY = "修改为您的快递鸟APP_KEY"
 
 # 单号识别 type
 KUAIDINIAO_JISHI_REQUEST_TYPE = '1002'
